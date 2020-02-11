@@ -4,9 +4,9 @@ server:
   port: 8084
 spring: 
   application: 
-    name: Micro-Service-Demo
+    name: MicroServiceDemo
 test: 
-  count: 200
+  count: 600
   list: "nikhil,sachin,joseph"
   map: "{name:'Nikhil',age:'26',id:'2013699999'}"
-  value: hello cloud application test
+  value: hello cloud test test
