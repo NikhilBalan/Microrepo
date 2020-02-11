@@ -1,5 +1,6 @@
 test: 
-  count: 2255
-  list: "Nkhil,salbin,chacko"
-  map: "{name:'sabli',age:'27',id:'007'}"
+  count: 666
+  list: "nikhil,sachin,joseph"
+  map: "{name:'Nikhil',age:'26',id:'2013699999'}"
+  value: hello cloud micro test
 
